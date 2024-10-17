@@ -73,6 +73,11 @@ namespace WinFormsApp2
         {
             //LOGICA NEGOCIO
         }
-       
+
+        public void FuncionD()
+        {
+            //LOGICA NEGOCIO
+        }
+
     }
 }
