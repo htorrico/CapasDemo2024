@@ -59,5 +59,9 @@ namespace WinFormsApp2
                 throw;
             }
         }
+        void Demo()
+        {
+            //LogicaNegocio
+        }
     }
 }
