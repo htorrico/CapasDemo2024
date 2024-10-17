@@ -59,5 +59,10 @@ namespace WinFormsApp2
                 throw;
             }
         }
+
+        public void FuncionA()
+        {
+            //LOGICA NEGOCIO
+        }
     }
 }
