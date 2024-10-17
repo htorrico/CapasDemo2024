@@ -24,7 +24,7 @@ namespace WinFormsApp2
             }
             catch (Exception)
             {
-                MessageBox.Show("Error de Conexión");
+                MessageBox.Show("Error de ConexiÃ³n");
                 throw;
             }
 
@@ -40,7 +40,7 @@ namespace WinFormsApp2
             }
             catch (Exception)
             {
-                MessageBox.Show("Error de Conexión");
+                MessageBox.Show("Error de ConexiÃ³n");
                 throw;
             }
         }
@@ -55,7 +55,7 @@ namespace WinFormsApp2
             }
             catch (Exception)
             {
-                MessageBox.Show("Error de Conexión");
+                MessageBox.Show("Error de ConexiÃ³n");
                 throw;
             }
         }
@@ -70,6 +70,10 @@ namespace WinFormsApp2
         }
 
         void Demo3()
+        {
+            //LogicaNegocio
+        }
+         void Demo4()
         {
             //LogicaNegocio
         }
