@@ -81,5 +81,9 @@ namespace WinFormsApp2
         {
             //LogicaNegocio
         }
+            void Demo6()
+        {
+            //LogicaNegocio
+        }
     }
 }
